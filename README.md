@@ -1,2 +1,1 @@
-# test2REAOME.mdを修正したぜ！！！
-README.mdを修正したよ
+# test2README.mdを修正したぜ！！！
